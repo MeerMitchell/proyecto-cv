@@ -1,0 +1,17 @@
+Lo que más me gustó:
+Haber realizado una página desde 0, haciendo prueba y error, 
+investigando y revisando contenido en internet y katas pasadas.
+
+Lo que menos me gusto:
+tener ideas en mente para aplicarlas pero que a la vez, siento que van más 
+allá de mis capacidades actuales. Lo que me lleva a considerar rehacer este 
+proyecto al finalizar el curso y poder visualizar cual ha sido mi evolución
+durante este tiempo.
+
+Lo que se me facilito:
+Realizar la distribución de los elementos, la maquetación de los mismos
+así como la elección de los colores.
+
+Lo que me costó más trabajo:
+entender las etiquetas, su funcionamiento y ubicación, tomando en cuenta que es 
+falta de practica de los mismos.

@@ -232,3 +232,29 @@ main {
     text-align: left;
 }
 
+/*footer*/
+
+footer {
+    display: flex;
+    padding: 2rem;
+    gap: 5rem;
+    Font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+ 
+}
+.redes {
+    max-width: 1205px;
+    margin-inline: auto;
+}
+
+.grid-container3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5.25rem;
+    align-items: center;
+    background-color: #DDBEA9;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 1.5rem;
+}

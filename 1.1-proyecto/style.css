@@ -15,6 +15,7 @@ a{
 nav {
     padding: 2rem;
 }
+
 img {
     display: block;
     width: 100%;
@@ -32,6 +33,7 @@ body {
 .container {
     max-width: 1205px;
     margin-inline: auto;
+    
 }
 
 .cta-link {
@@ -65,14 +67,13 @@ body {
 }
 
 
-.grid-container {
+.grid-container1 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 5.25rem;
     align-items: center;
     background-color: #DDBEA9;
     border: 1px solid rgba(0, 0, 0, 0.1);
-
     border-radius: 12px;
     padding: 1.5rem;
 }
@@ -81,4 +82,150 @@ body {
     border-radius: 100%;
     box-shadow: -2px 0px 29px 5px rgba(0, 0, 0, 0.67);
 -webkit-box-shadow: -2px 0px 29px 5px rgba(0, 0, 0, 0.67);
+}
+
+
+/*main*/
+main {
+    padding: 2rem;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5.25rem;
+    align-items: center;
+    background-color: #DDBEA9;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+
+.main-primaria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.625rem;
+}
+
+.main-secundaria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.625rem;
+}
+
+.main-terciaria {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.porcentaje0{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.porcentaje0 .porcentaje{
+    width: 6.25rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 1.25rem;
+}
+.porcentaje0 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
+}
+
+.porcentaje1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.porcentaje1 .porcentaje{
+    width: 4.6875rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 20px;
+}
+.porcentaje1 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
+}
+
+.porcentaje2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.porcentaje2 .porcentaje{
+    width: 4.0625rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 20px;
+}
+.porcentaje2 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
+}
+
+.porcentaje3{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.porcentaje3 .porcentaje{
+    width: 1.5625rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 20px;
+}
+.porcentaje3 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
+}
+
+.porcentaje4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.porcentaje4 .porcentaje{
+    width: 2.5rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 20px;
+}
+.porcentaje4 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
+}
+
+.porcentaje5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.porcentaje5 .porcentaje{
+    width: 1.5625rem;
+    height: 1.25rem;
+    background-color: #FFE8D6;
+    border-radius: 20px;
+}
+.porcentaje5 p{
+    margin-right: 0.625rem;
+    width: 7.5rem;
+    text-align: left;
 }

@@ -66,6 +66,9 @@ body {
     gap: 0.625rem;
 }
 
+.frase {
+    color: #9c6644;
+}
 
 .grid-container1 {
     display: grid;
@@ -99,6 +102,10 @@ main {
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 12px;
     padding: 1.5rem;
+}
+
+.academica, .adicionales, .profesional, .skills {
+    color: #9c6644;
 }
 
 .main-primaria {

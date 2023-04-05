@@ -151,11 +151,13 @@ main {
     height: 1.25rem;
     background-color: #FFE8D6;
     border-radius: 20px;
+    
 }
 .porcentaje1 p{
     margin-right: 0.625rem;
     width: 7.5rem;
     text-align: left;
+    border-color: rgb(0, 0, 0);
 }
 
 .porcentaje2{
@@ -229,3 +231,4 @@ main {
     width: 7.5rem;
     text-align: left;
 }
+
